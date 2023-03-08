@@ -1,2 +1,3 @@
-# Synonym-Finder---Browser-Extension
-Find the one line definition of any word with this extension
+
+# Quick Synonym Finder
+Find the one line definition of any word in a click...
